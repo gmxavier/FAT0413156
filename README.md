@@ -27,5 +27,5 @@ Please let me know (gilberto.xavier at lps.ufrj.br) if you any thoughts or sugge
 
 ### [Chapter 8.0 Analytical measurement](http://nbviewer.jupyter.org/github/gmxavier/FAT0413156/blob/master/notebooks/08.00-Analytical.ipynb)
 
-**License requirements.** The materials in this repository are available at [here](https://github.com/gmxavier/FAT0413156.git) for noncommercial use under terms of the [CC-BY-NC-SA-4.0 license](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+**License requirements.** The materials in this repository are available for noncommercial use under terms of the [CC-BY-NC-SA-4.0 license](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 You are invited to fork this repository, and to use, adapt, remix these material for non-commericial purposes. The license terms require you to give attribution and share your work under the same terms. Pull requests for corrections and additions to these materials are most welcome.
