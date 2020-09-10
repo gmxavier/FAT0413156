@@ -7,7 +7,7 @@ This repository comprises a collection of Jupyter/Python notebooks in support of
 
 The links below display the notebooks as regular HTML web pages. From there you can run the notebook on [Google Colaboratory](https://colab.research.google.com) or download to run on your own laptop. To run on your own laptop you will need to install Jupyter and Python 3, such as the excellent [Anaconda distribution from Continuum Analytics](https://www.continuum.io/downloads).
 
-Please let me know (gilberto.xavier at lps.ufrj.br) if you any thoughts or suggestions on how these notebooks could be improved for teaching and learning the principles of the Chemical Process Instrumentation.
+Please let me know (gmxavier at fat.uerj.br) if you any thoughts or suggestions on how these notebooks could be improved for teaching and learning the principles of the Chemical Process Instrumentation.
 
 ### [Table of contents](http://nbviewer.jupyter.org/github/gmxavier/FAT0413156/blob/master/notebooks/toc.ipynb?flush=true)
 
